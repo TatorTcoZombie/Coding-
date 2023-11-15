@@ -1,0 +1,5 @@
+python
+
+x = input("TELL ME YOUR NAME.")
+
+print(("YOUR NAME IS ") + (x) + (.))
